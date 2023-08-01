@@ -44,7 +44,7 @@ This project was an incredible journey, and I am immensely proud of what our tea
 ### Achievements 🎉
 
 - Successful delivery of the application, a feature-rich and user-friendly productivity management tool.
-- Positive user feedback during beta testing, indicating that TimeCraft met and exceeded user expectations.
+- Positive user feedback during beta testing, indicating that the application met and exceeded user expectations.
 - Smooth collaboration among team members, fostering a productive and innovative work environment.
 
 ### Learnings 📖
